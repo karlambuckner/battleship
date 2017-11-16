@@ -1,6 +1,8 @@
-# _{Application Name}_
+# _Battleship Online game_
 
-#### _{Brief description of application}, {Date of current version}_
+<img width="1793" alt="screen shot 2017-11-16 at 2 49 21 pm" src="https://user-images.githubusercontent.com/27794720/32920451-27567192-cade-11e7-9b06-a3c24606c512.png">
+
+#### _Online Battleship game, 07/20/2017_
 
 #### By _**Michael Brooks, Faunie Szeloczei, Nathan Mayer, Karla Buckner**_
 

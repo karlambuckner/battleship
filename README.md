@@ -63,7 +63,7 @@ _There are no known bugs at this time but do not hesitate to contact us if you f
 
 ## Support and contact details
 
-_Contact at MikeAlphaBravo1982@gmail.com_
+_Contact at kmb2662@gmail.com_
 
 ## Technologies Used
 
